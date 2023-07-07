@@ -16,6 +16,8 @@ application resembles mock-up image 90%
 repo has a name and follows best practices for file structure and naming and quality comments. contains multiple descriptive commit messages as well as a README file, screenshot and link to deployed application
 
 Link
-The site can be found at [Horiseon]()
+The site can be found at [Horiseon](https://kwillia0359.github.io/challenge-01/)
 
 Screenshot
+<img width="1440" alt="Screen Shot 2023-07-05 at 6 02 55 PM" src="https://github.com/kwillia0359/challenge-01/assets/122000669/f3839594-dbe3-45c9-945e-271b62f7c9bc">
+
