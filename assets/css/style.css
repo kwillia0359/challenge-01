@@ -85,33 +85,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefit-lead {
+/* made the benefit-card and created and id to target all the things in this section*/
+.benefit-card {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/* made all the titles in h3 tags the same element  */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* made all the image tags the same element */
 img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
     max-height: 200px;}
-
+/* made all the image tags the same element */
 main {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +110,7 @@ main {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* made all the h2 tags the same element labeled h2 */
 
 h2 {
     margin-bottom: 20px;
